@@ -1,7 +1,3 @@
-  vars:
-    deployment_path:
-      - /home/panda/Ansible_roles/Infrastructure
-    git_repository:
-      - https://github.com/bpaszkowski/Infrastructure
-    git_branch:
-      - main
+deployment_path: "~/Infrastructure"
+git_repository: "https://github.com/bpaszkowski/Infrastructure"
+git_branch: "main"
